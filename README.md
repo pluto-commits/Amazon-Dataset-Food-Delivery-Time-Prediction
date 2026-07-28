@@ -60,7 +60,6 @@ Food_Delivery_Time_Prediction/
 │   ├── 03_EDA.ipynb
 │   ├── 04_Feature_Engineering.ipynb
 │   ├── 05_Modeling.ipynb
-│   ├── 06_Model_Evaluation.ipynb
 │   ├── food_delivery_model.pkl
 │   └── predict_delivery_time.py
 │
@@ -69,7 +68,6 @@ Food_Delivery_Time_Prediction/
 │
 ├── requirements.txt
 ├── README.md
-└── LICENSE
 ```
 
 ---
