@@ -1,0 +1,47 @@
+## Suggested Category Ordering (Interpretation)
+
+### Weather Conditions
+
+| Suggested Code | Category |
+|---------------:|----------|
+| 0 | Sunny |
+| 1 | Cloudy |
+| 2 | Windy |
+| 3 | Fog |
+| 4 | Stormy |
+| 5 | Sandstorms |
+
+### Road Traffic Density
+
+| Suggested Code | Category |
+|---------------:|----------|
+| 0 | Low |
+| 1 | Medium |
+| 2 | High |
+| 3 | Jam |
+
+### Type of Order
+
+| Suggested Code | Category |
+|---------------:|----------|
+| 0 | Drinks |
+| 1 | Snack |
+| 2 | Meal |
+| 3 | Buffet |
+
+### Type of Vehicle
+
+| Suggested Code | Category |
+|---------------:|----------|
+| 0 | Bicycle |
+| 1 | Electric Scooter |
+| 2 | Scooter |
+| 3 | Motorcycle |
+
+### City
+
+| Suggested Code | Category |
+|---------------:|----------|
+| 0 | Semi-Urban |
+| 1 | Urban |
+| 2 | Metropolitan |
