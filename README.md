@@ -153,6 +153,20 @@ The project includes an interactive Tableau dashboard showing:
 
 ---
 
+## Training the Model
+
+The trained model (`food_delivery_model.pkl`) is not included because of GitHub file size limitations.
+
+To generate the model:
+
+1. Run `01_Data_Inspection.ipynb`
+2. Run `02_Data_Cleaning.ipynb`
+3. Run `03_EDA.ipynb`
+4. Run `04_Feature_Engineering.ipynb`
+5. Run `05_Modeling.ipynb`
+
+This will automatically generate: food_delivery_model.pkl
+
 ## Prediction Script
 
 The project includes a standalone prediction script.
